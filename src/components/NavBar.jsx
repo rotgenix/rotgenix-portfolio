@@ -74,7 +74,7 @@ export const NavBar = () => {
           {/* <img src={logo} alt="R0tg3n1x" /> */}
           {!scrolled && <div>
             <p>r0tg3n1x</p>
-            <p>Rohit Prajapti</p>
+            <p>Rohit Prajapati</p>
           </div>}
 
           {scrolled && <div>
